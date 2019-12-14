@@ -1,0 +1,9 @@
+1) GIT - Done (continuous)
+2) Github - Done
+3) HTML - Working
+4) CSS - Pending
+5) Bootstrap - Pending
+6) AWS - Pending
+7) PostgreSQL - Pending
+8) Django - Pending (continuous)
+9) Javascript - Pending
