@@ -1,7 +1,7 @@
-1) GIT - Done (continuous)
-2) Github - Done
-3) HTML - Working
-4) CSS - Pending
+1) GIT - Done (continuous) (Beginner)
+2) Github - Done (Beginner)
+3) HTML - Done (Beginner)
+4) CSS - Working (Beginner)
 5) Bootstrap - Pending
 6) AWS - Pending
 7) PostgreSQL - Pending
