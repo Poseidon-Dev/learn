@@ -1,0 +1,8 @@
+Security of the Cloud
+
+    Availabilty Zones
+        Connected data centers
+    AWD regions have multiple Availabilty zones that are seperate
+
+Security in the Cloud
+
